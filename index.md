@@ -2,7 +2,7 @@
 layout: cv
 title: Bruno I. Pedrosa 
 ---
-# Bruno Isau Pedrosa
+# Bruno Pedrosa
 I am a dedicated programmer with ten years of experience in developing customised applications for a wide range of clients. As a software engineer, I am proficient in a broad spectrum of technologies and languages. With my creativity, problem-solving and technical skills, I love helping people to find efficient solutions.
 
 <div id="webaddress">
@@ -23,7 +23,14 @@ Proficiency in AWS cloud technologies and Azure.
 
 ## Experience
 
-`May 2017 - Present Date`
+`August 2021 - Present Date`
+__Senior Backend Egineer__, Equimentshare, USA
+
+- Designed and developed serverless backend applications to support business functions for billing, using typescript, PostgresSQL and Node (NestJS). 
+
+- Collaborated with multiple remote teams.
+
+`May 2017 - August 2021`
 __Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Worked and launched the first open bank solution in NZ, which integrates all the major banks: ANZ, Westpac, Kiwibank, BNZ and ASB. 
