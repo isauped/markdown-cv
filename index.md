@@ -2,7 +2,7 @@
 layout: cv
 title: Bruno I. Pedrosa 
 ---
-# Bruno Pedrosa
+# Bruno Isau Pedrosa
 I am a dedicated programmer with ten years of experience in developing customised applications for a wide range of clients. As a software engineer, I am proficient in a broad spectrum of technologies and languages. With my creativity, problem-solving and technical skills, I love helping people to find efficient solutions.
 
 <div id="webaddress">
