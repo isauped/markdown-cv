@@ -23,14 +23,14 @@ Proficiency in AWS cloud technologies.
 
 ## Experience
 
-`August 2021 - Present Date`
+`2021 - Current`
 __Senior Backend Egineer__, Equimentshare, USA
 
 - Designed and developed serverless backend applications to support business functions for billing, using NestJS (Typescript) and PostgresSQL. 
 
 - Collaborated with multiple remote teams.
 
-`May 2017 - August 2021`
+`2017 - 2021`
 __Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Worked and launched the first open bank solution in NZ, which integrates all the major banks: ANZ, Westpac, Kiwibank, BNZ and ASB. 
@@ -41,7 +41,7 @@ __Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Conceived, developed and maintained diverse backend applications using NodeJS, NestJS and PostgreSQL.
 
-`October 2014 – November 2016`
+`2014 – 2016`
 __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
 
 - Worked on the school management system, student portal and the integration of them with the student mobile app, developing frontend and backend code. Some of the technologies included  C#, ASP.Net MVC 5, Web API 2, Microsoft SQL Server, Angular, JSON, Azure. 
@@ -50,15 +50,14 @@ __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Aust
 
 - Was responsale for requirement gathering and client interfacing.
 
-
-`August 2011 – August 2014`
+`2011 – 2014`
 __Full Stack .Net Software Developer__, CI&T Software S.A, São Paulo, Brasil
 
 - Worked with a wide range of international market leading companies,  some of them included: TetraPak,  Procter & Gamble and Qualicorp.
 
 - Developed and maintained code using C#, ASP.Net MVC 4.0, jQuery, WCF, SQL Server 2008, JSON, Objective-C, QlikView
 
-`June 2009– August 2011`
+`2009 – 2011`
 __Web Developer__, Desktop Internet Services, São Paulo, Brasil
 
 - Responsible for gathering requirements and brainstorming with product owners in order to design software that fits their needs.
@@ -70,16 +69,16 @@ __Web Developer__, Desktop Internet Services, São Paulo, Brasil
 
 ## Education
 
-`January 2008 -  June 2012`
+`2008 - 2012`
 __Bachelor in Systems Analysis (Honors)__, Faculdade de Tecnologia de São Paulo – FATEC – Brazil
 
-`June 2006 – December 2007`
+`2006 – 2007`
 __Computer Technician__, ETEC Polivalente Americana – SP – Brazil
 
 
 ## Volunteer work
 
-`August 2020 - Present date`
+`2020 - Present date`
 __Coach of Brazilian Jiu Jitsu for kids__, Sorriso BJJ - Auckland, New Zealand
 
 ## References
