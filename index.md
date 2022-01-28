@@ -13,20 +13,20 @@ I am a dedicated programmer with ten years of experience in developing customise
 ## Skills
 
 `Backend`
-Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
+Node.js, NestJs, Typescript, AWS Serverless, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
 
 `Database`
 Expertise in database conception and modeling includes: PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
 
 `Cloud`
-Proficiency in AWS cloud technologies and Azure.
+Proficiency in AWS cloud technologies.
 
 ## Experience
 
 `August 2021 - Present Date`
 __Senior Backend Egineer__, Equimentshare, USA
 
-- Designed and developed serverless backend applications to support business functions for billing, using typescript, PostgresSQL and Node (NestJS). 
+- Designed and developed serverless backend applications to support business functions for billing, using NestJS (Typescript) and PostgresSQL. 
 
 - Collaborated with multiple remote teams.
 
