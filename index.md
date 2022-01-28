@@ -44,7 +44,7 @@ __Backend Developer__, Roam Digital, Auckland, New Zealand
 `October 2014 – November 2016`
 __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
 
-- Worked on the school management system, student portal and the integration of them with the student mobile app, developing frontend and backend code. Some of the technologies included  C#, ASP.Net MVC 5, Web API 2, Microsoft SQL Server, HTML5, CSS3, Angular, JSON, Azure. 
+- Worked on the school management system, student portal and the integration of them with the student mobile app, developing frontend and backend code. Some of the technologies included  C#, ASP.Net MVC 5, Web API 2, Microsoft SQL Server, Angular, JSON, Azure. 
 
 - Migrated all applications, SSRS reports, automated scripts and database from an inhouse server to Microsoft Azure.
 
