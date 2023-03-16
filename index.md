@@ -98,6 +98,4 @@ Available upon request.
 
 <!-- ### Footer
 
-Last updated: Jun 2021 -->
-
-
+Last updated: March 2023 -->
