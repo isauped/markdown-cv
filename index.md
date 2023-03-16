@@ -7,8 +7,8 @@ I am a dedicated programmer with more than ten years of experience in developing
 
 <div id="webaddress">
 <a href="bruno.isau.pedrosa@gmail.com">bruno.isau.pedrosa@gmail.com</a>
-| +640277665516
 | <a href="https://www.linkedin.com/in/brupedrosa">LinkedIn</a>
+| +640277665516
 </div>
 
 ## Skills
