@@ -25,9 +25,9 @@ Proficiency in AWS cloud technologies.
 ## Experience
 
 `August 2023 - Current`
-__Carrer break__, Mercury, NZ
+__Carrer break__
 
-- Spent quality time with my family in my home country Brazil. Developed further my sailing skills, sailing across the South Atlantic from South Africa to Brazil. 
+- Spent quality time with my family in my home country, Brazil. Further developed my sailing skills, sailing across the South Atlantic from South Africa to Brazil. 
 
 `March 2022 - August 2023 (Contract)`
 __Senior Backend Engineer__, Mercury, NZ
