@@ -27,12 +27,14 @@ Proficiency in AWS cloud technologies.
 `August 2023 - Current`
 __Career break__
 
-- Spent quality time with my family in my home country, Brazil. Further developed my sailing skills, sailing across the South Atlantic from South Africa to Brazil.  
+- Spent quality time with my family in my home country, Brazil. 
+- Further developed my sailing skills, sailing across the South Atlantic from South Africa to Brazil.  
 
 `March 2022 - August 2023 (Contract)`
 __Senior Backend Engineer__, Mercury, NZ
 
 - Designed and developed serverless backend applications to support billing-related business functions, using NestJS (Typescript), PostgresSQL, and Serverless architecture. 
+- 
 
 `2021 - March 2022`
 __Senior Backend Egineer__, Equimentshare, USA
