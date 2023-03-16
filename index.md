@@ -3,7 +3,7 @@ layout: cv
 title: Bruno I. Pedrosa 
 ---
 # Bruno Pedrosa
-I am a dedicated programmer with more than ten years of experience in developing customised applications for a wide range of clients. I pride myself as being someone with excellent interpersonal skills, who can build relationships with people around me easily. As a software engineer, I am proficient in a broad spectrum of technologies and languages. With my creativity, problem-solving and technical skills, I love helping people to find efficient solutions.
+With over a decade of experience in developing customised applications for a wide range of clients. I pride myself as being someone with excellent interpersonal skills, who can build strong relationships with clients, colleagues, and stakeholders. As a software engineer, I am proficient in a broad range of technologies and languages. With my creativity, problem-solving and technical skills, I love helping people to find efficient solutions.
 
 <div id="webaddress">
 <a href="bruno.isau.pedrosa@gmail.com">bruno.isau.pedrosa@gmail.com</a>
@@ -25,21 +25,21 @@ Proficiency in AWS cloud technologies.
 ## Experience
 
 `August 2023 - Current`
-__Career break__NZ
+__Career break__
 
 - Spent quality time with my family in my home country, Brazil. Further developed my sailing skills, sailing across the South Atlantic from South Africa to Brazil.  
 
 `March 2022 - August 2023 (Contract)`
 __Senior Backend Engineer__, Mercury, NZ
 
-- Designed, developed and delivered APIs that integrated different internal systems, using serverless, step functions and NestJs (Typescript). 
+- Designed and developed serverless backend applications to support billing-related business functions, using NestJS (Typescript), PostgresSQL, and Serverless architecture. 
 
 `2021 - March 2022`
 __Senior Backend Egineer__, Equimentshare, USA
 
 - Designed and developed serverless backend applications to support business functions for billing, using NestJS (Typescript) and PostgresSQL. 
 
-- Collaborated with multiple remote teams.
+- Collaborated with multiple remote teams located overseas.
 
 `2017 - 2021`
 __Backend Developer__, Roam Digital, Auckland, New Zealand
