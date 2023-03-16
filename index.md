@@ -3,17 +3,18 @@ layout: cv
 title: Bruno I. Pedrosa 
 ---
 # Bruno Pedrosa
-I am a dedicated programmer with ten years of experience in developing customised applications for a wide range of clients. As a software engineer, I am proficient in a broad spectrum of technologies and languages. With my creativity, problem-solving and technical skills, I love helping people to find efficient solutions.
+I am a dedicated programmer with more than ten years of experience in developing customised applications for a wide range of clients. I proud myself as being someone with excellent interpersonal skills, who can build relationships with my people around me easily. As a software engineer, I am proficient in a broad spectrum of technologies and languages. With my creativity, problem-solving and technical skills, I love helping people to find efficient solutions.
 
 <div id="webaddress">
 <a href="bruno.isau.pedrosa@gmail.com">bruno.isau.pedrosa@gmail.com</a>
 | +640277665516
+| <a href="https://www.linkedin.com/in/brupedrosa">LinkedIn</a>
 </div>
 
 ## Skills
 
 `Backend`
-Node.js, NestJs, Typescript, AWS Serverless, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
+AWS Serverless, Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
 
 `Database`
 Expertise in database conception and modeling includes: PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
