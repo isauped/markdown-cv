@@ -35,7 +35,7 @@ __Career break__,
 `March 2022 - August 2023 (Contract)`
 __Senior Backend Engineer__, Mercury, NZ 
 
-- Designed and developed serverless backend applications to support billing-related business functions, using NestJS (Typescript), PostgresSQL, and Serverless architecture. 
+- Design, develop and deliver APIs that integrate different internal systems using serverless, step functions, and NestJs (Typescript).
 
 - Collaborated with multiple teams.
 
