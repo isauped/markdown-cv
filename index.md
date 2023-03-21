@@ -64,7 +64,7 @@ __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Aust
 
 - Migrated all applications, SSRS reports, automated scripts and database from an inhouse server to Microsoft Azure.
 
-- Was responsale for requirement gathering and client interfacing.
+- Was responsible for requirement gathering and client interfacing.
 
 `2011 – 2014`
 __Full Stack .Net Software Developer__, CI&T Software S.A, São Paulo, Brasil
@@ -80,7 +80,7 @@ __Web Developer__, Desktop Internet Services, São Paulo, Brasil
 
 - Architected, developed and maintained internal systems using Java, Servlets, JSP, PHP, HTML, CSS, JavaScript, JQuery and MySQL.
 
-- Responsable for user training. 
+- Responsible for user training. 
 
 
 ## Education
