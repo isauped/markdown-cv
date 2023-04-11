@@ -40,7 +40,7 @@ __Senior Backend Engineer__, Mercury, NZ
 - Collaborated with multiple teams.
 
 `2021 - March 2022`
-__Senior Backend Egineer__, Equimentshare, USA
+__Senior Backend Engineer__, Equipmentshare, USA
 
 - Designed and developed serverless backend applications to support business functions for billing, using NestJS (Typescript) and PostgresSQL. 
 
