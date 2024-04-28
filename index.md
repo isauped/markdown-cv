@@ -27,9 +27,11 @@ Proficiency in AWS cloud technologies.
 `August 2022 - Current`
 __Career break__, 
 
-- Spent quality time with my family in my home country, Brazil. 
-
 - Further developed my sailing skills, sailing across the South Atlantic from South Africa to Brazil.
+
+- Spent quality time with my family in Brazil.
+
+- Coaching Brazilian Jiu Jitsu to kids and adults.
 
 
 `March 2022 - August 2022 (Contract)`
