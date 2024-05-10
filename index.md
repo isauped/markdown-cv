@@ -37,14 +37,14 @@ __Career break__,
 `March 2022 - August 2022 (Contract)`
 __Senior Backend Engineer__, Mercury, NZ 
 
-- Design, develop and deliver APIs that integrate different internal systems using serverless, step functions, and NestJs (Typescript).
+- Design, develop and deliver APIs that integrate different internal systems using serverless, step functions, and Node.js (Typescript).
 
 - Collaborated with multiple teams.
 
 `2021 - March 2022`
 __Senior Backend Engineer__, Equipmentshare, USA
 
-- Designed and developed serverless backend applications to support business functions for billing, using NestJS (Typescript) and PostgresSQL. 
+- Designed and developed serverless backend applications to support business functions for billing, using Node.js (Typescript), NestJS and PostgresSQL. 
 
 - Collaborated with multiple remote teams located overseas.
 
