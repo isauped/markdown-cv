@@ -24,8 +24,8 @@ Proficiency in AWS cloud technologies.
 
 ## Experience
 
-`July 2024 - December 2024 (Contract)`
-__Senior Backend Engineer__, 
+`July 2024 - December 2024`
+__Senior Backend Engineer (Contract)__, SmartPay, NZ 
 
 - Developed and maintained integrations between APIs, internal systems, and third-party platforms using Node.js, PostgreSQL, and AWS Lambda.
 
@@ -44,8 +44,8 @@ __Career break__,
 
 - Coaching Brazilian Jiu Jitsu adults and kids.
 
-`March 2022 - August 2022 (Contract)`
-__Senior Backend Engineer__, Mercury, NZ 
+`March 2022 - August 2022`
+__Senior Backend Engineer (contract)__, Mercury, NZ 
 
 - Design, develop and deliver APIs that integrate different internal systems using serverless, step functions, and Node.js (Typescript).
 
