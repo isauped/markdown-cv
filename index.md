@@ -24,15 +24,25 @@ Proficiency in AWS cloud technologies.
 
 ## Experience
 
-`August 2022 - Current`
+`July 2024 - December 2024 (Contract)`
+__Senior Backend Engineer__, 
+
+- Developed and maintained integrations between APIs, internal systems, and third-party platforms using Node.js, PostgreSQL, and AWS Lambda.
+
+- Designed scalable and efficient solutions to meet business requirements.
+
+- Collaborated with cross-functional teams in a Scrum environment to deliver high-quality software on schedule.
+
+- Utilised TypeScript and JavaScript to ensure robust and maintainable codebases.
+
+`August 2022 - June 2024`
 __Career break__, 
 
 - Further developed my sailing skills, sailing across the South Atlantic from South Africa to Brazil.
 
 - Spent quality time with my family in Brazil.
 
-- Coaching Brazilian Jiu Jitsu to kids and adults.
-
+- Coaching Brazilian Jiu Jitsu adults and kids.
 
 `March 2022 - August 2022 (Contract)`
 __Senior Backend Engineer__, Mercury, NZ 
