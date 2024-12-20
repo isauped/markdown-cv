@@ -70,10 +70,10 @@ __Bachelor in Systems Analysis (Honors)__, Faculdade de Tecnologia de São Paulo
 __Computer Technician__, ETEC Polivalente Americana – SP – Brazil
 
 
-## Volunteer work
+## Other work
 
 `August 2020 - Present date`
-__Coach of Brazilian Jiu Jitsu for kids__, Sorriso BJJ - Auckland, New Zealand
+__Coach of Brazilian Jiu Jitsu for adults and kids, Alliance Jiu Jitsu, Mt Eden - Auckland, New Zealand
 
 ## References
 Available upon request.
