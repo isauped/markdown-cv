@@ -27,13 +27,17 @@ Proficiency in AWS cloud technologies.
 `July 2024 - December 2024`
 __Senior Backend Engineer - (Contract)__, SmartPay, NZ 
 
-- Developed and maintained integrations between APIs, internal systems, and third-party platforms using Node.js, PostgreSQL, and AWS Lambda.
+- Developed and maintained integrations between APIs, internal systems, and third-party platforms using Node.js, PostgreSQL, AWS Lambda, and Step Functions.
 
-- Designed scalable and efficient solutions to meet business requirements.
+- Designed scalable and secure solutions to meet business and regulatory requirements for a financial institution.
+
+- Integrated with IoT devices to enable real-time data processing and system communication.
+
+- Ensured adherence to industry-standard security practices, including data encryption and secure authentication mechanisms.
 
 - Collaborated with cross-functional teams in a Scrum environment to deliver high-quality software on schedule.
 
-- Utilised TypeScript and JavaScript to ensure robust and maintainable codebases.
+- Utilised TypeScript and JavaScript to develop robust and maintainable codebases.
 
 `August 2022 - June 2024`
 __Career break__, 
