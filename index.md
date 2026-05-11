@@ -13,6 +13,9 @@ With over a decade of experience in developing customised applications for a wid
 
 ## Skills
 
+`AI-Assisted Development`
+Prompt Engineering, AI Workflow Design, AI Team Enablement, Claude Code, Codex, Cursor.
+
 `Backend`
 AWS Serverless, Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
 
@@ -24,8 +27,19 @@ Proficiency in AWS cloud technologies.
 
 ## Experience
 
+`Mar 2025 - Present`
+__Senior Backend Engineer__, The Boundary, Auckland, New Zealand
+
+- Develop and maintain backend applications using NestJS, AWS and PostgreSQL.
+
+- Coach and mentor junior developers, fostering growth and best practices.
+
+- Participate in scrum meetings and agile ceremonies.
+
+- Heavily leverage AI development tools to accelerate feature delivery and improve code quality.
+
 `July 2024 - December 2024`
-__Senior Backend Engineer - (Contract)__, SmartPay, NZ 
+__Senior Backend Engineer - (Contract)__, SmartPay, NZ
 
 - Developed and maintained integrations between APIs, internal systems, and third-party platforms using Node.js, PostgreSQL, AWS Lambda, and Step Functions.
 
