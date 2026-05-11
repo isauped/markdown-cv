@@ -13,7 +13,7 @@ With over a decade of experience in developing customised applications for a wid
 
 ## Skills
 
-`AI-Assisted Development`
+`AI`
 Prompt Engineering, AI Workflow Design, AI Team Enablement, Claude Code, Codex, Cursor.
 
 `Backend`
